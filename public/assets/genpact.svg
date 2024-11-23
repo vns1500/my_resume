@@ -1,0 +1,40 @@
+<svg version="1.1" id="svg8" xmlns:x="ns_extend;" xmlns:i="ns_ai;" xmlns:graph="ns_graphs;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 36 50" style="enable-background:new 0 0 36 50;" xml:space="preserve">
+ <style type="text/css">
+  .st0{fill:#FA555F;}
+	.st1{fill:#27AECF;}
+	.st2{fill:#073262;}
+ </style>
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:Work>
+  </rdf:RDF>
+  <sfw xmlns="ns_sfw;">
+   <slices>
+   </slices>
+   <sliceSourceBounds bottomLeftOrigin="true" height="50" width="36" x="10.3" y="253.1">
+   </sliceSourceBounds>
+  </sfw>
+ </metadata>
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" id="base" inkscape:current-layer="layer1" inkscape:cx="85.999999" inkscape:cy="31.5" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="744" inkscape:window-maximized="1" inkscape:window-width="1280" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="5.2151163" pagecolor="#ffffff" showgrid="false" units="px">
+ </sodipodi:namedview>
+ <g>
+  <polygon class="st0" points="18,0 0,12.5 9.1,18.8 18,12.6 26.9,18.8 36,12.5 	">
+  </polygon>
+  <polygon class="st1" points="0,37.5 18,50 18,37.4 9.1,31.2 9.1,18.8 0,12.5 	">
+  </polygon>
+  <rect x="18" y="25" class="st1" width="9" height="12.4">
+  </rect>
+  <polygon class="st2" points="18,50 36,37.5 36,25 18,37.4 	">
+  </polygon>
+  <polygon class="st0" points="27,31.2 18,25 26.9,18.8 36,25 	">
+  </polygon>
+ </g>
+</svg>
